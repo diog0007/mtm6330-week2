@@ -1,2 +1,3 @@
 # mtm6330-week2
-In Class Exercise
+My First GitHub repo
+Julianna Dioguardi - 310
